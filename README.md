@@ -1,6 +1,8 @@
 # Full Fine-tuner for Mochi and Pusa
 
-[![Codebase](https://img.shields.io/badge/Codebase-Source%20Code-8A2BE2?logo=git)](https://github.com/Yaofang-Liu/Pusa-VidGen) [![ModelHub](https://img.shields.io/badge/⚡-Model%20Hub-FFD700?logo=huggingface)](https://huggingface.co/RaphaelLiu/Pusa-V0.5) [![Training](https://img.shields.io/badge/Codebase-Training%20Tools-32CD32?logo=git)](https://github.com/Yaofang-Liu/Mochi-Full-Finetuner) [![DataRepo](https://img.shields.io/badge/📁-Dataset%20Repo-6495ED?logo=huggingface)](https://huggingface.co/datasets/RaphaelLiu/PusaV0.5_Training)
+[![Code](https://img.shields.io/badge/Code-Pusa%20Repo-32CD32?logo=github)](https://github.com/Yaofang-Liu/Pusa-VidGen) [![ModelHub](https://img.shields.io/badge/⚡-Model%20Hub-FFD700?logo=huggingface)](https://huggingface.co/RaphaelLiu/Pusa-V0.5) [![DataRepo](https://img.shields.io/badge/📁-Dataset%20Repo-6495ED?logo=huggingface)](https://huggingface.co/datasets/RaphaelLiu/PusaV0.5_Training) 
+[![Paper](https://img.shields.io/badge/📜-FVDM%20Paper-B31B1B?logo=arxiv)](https://arxiv.org/abs/2410.03160) [![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?logo=twitter)](https://x.com/stephenajason)
+[![Xiaohongshu](https://img.shields.io/badge/📕-Xiaohongshu-FF2442)](https://www.xiaohongshu.com/discovery/item/67f898dc000000001c008339?source=webshare&xhsshare=pc_web&xsec_token=ABAhG8mltqyMxL9kI0eRxwj7EwiW7MFYH2oPl4n8ww0OM=&xsec_source=pc_share)
 
 ## Overview
 

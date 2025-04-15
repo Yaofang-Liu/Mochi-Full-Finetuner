@@ -45,7 +45,7 @@ huggingface-cli download genmo/mochi-1-preview --repo-type model --local-dir <pa
 
 ### Option 1: Use our pre-processed dataset
 
-Download our training dataset (349,488 pre-encoded latent samples from [VIDGEN-1M](https://huggingface.co/datasets/Fudan-FUXI/VIDGEN-1M)):
+Download our training dataset (52695 pre-encoded latent samples from [VIDGEN-1M](https://huggingface.co/datasets/Fudan-FUXI/VIDGEN-1M), Pusa V0.5 only used 16000 samples):
 
 ```bash
 huggingface-cli download RaphaelLiu/PusaV0.5_Training --repo-type dataset --local-dir <path_to_dataset_directory>

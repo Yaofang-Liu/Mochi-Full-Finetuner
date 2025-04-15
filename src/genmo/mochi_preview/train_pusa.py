@@ -636,8 +636,4 @@ if __name__ == "__main__":
     }
     os.makedirs(config['checkpoint_dir'], exist_ok=True)
 
-
-    if os.environ.get('LOCAL_RANK', '0') == '0':  # Only initialize on main process
-        wandb.login(key='eeec17656eb45575dafa2292e2c12928a6f6e48c')
-
     train_mochi(config)

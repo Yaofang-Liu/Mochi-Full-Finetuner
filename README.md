@@ -1,4 +1,4 @@
-# Full Fine-tuner for Mochi and Pusa
+# Full Fine-tuner for Mochi and Pusa 0.5
 
 [![Code](https://img.shields.io/badge/Code-Pusa%20Repo-32CD32?logo=github)](https://github.com/Yaofang-Liu/Pusa-VidGen) [![ModelHub](https://img.shields.io/badge/⚡-Model%20Hub-FFD700?logo=huggingface)](https://huggingface.co/RaphaelLiu/Pusa-V0.5) [![DataRepo](https://img.shields.io/badge/📁-Dataset%20Repo-6495ED?logo=huggingface)](https://huggingface.co/datasets/RaphaelLiu/PusaV0.5_Training) 
 [![Paper](https://img.shields.io/badge/📜-FVDM%20Paper-B31B1B?logo=arxiv)](https://arxiv.org/abs/2410.03160) [![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?logo=twitter)](https://x.com/stephenajason)
@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository provides tools for full fine-tuning or partial fine-tuning (e.g., specific DiT blocks) of the Mochi and Pusa video generation models. It supports training on both single-node and multi-node configurations with our provided dataset or your custom data.
+This repository provides tools for full fine-tuning or partial fine-tuning (e.g., specific DiT blocks) of the Mochi and Pusa 0.5 video generation models. It supports training on both single-node and multi-node configurations with our provided dataset or your custom data.
 
 ## System Requirements
 
